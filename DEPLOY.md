@@ -17,7 +17,7 @@ Deploy your TaskFlow app so the Honeywell reviewer can see it live.
    git init
    git add .
    git commit -m "Initial commit"
-   git remote add origin https://github.com/YOUR_USERNAME/taskflow.git
+   git remote add origin https://github.com/Mohd-Abdul-Nawaz/taskflow-task-manager.git
    git push -u origin main
    ```
 
@@ -79,5 +79,5 @@ Before sharing the link with the reviewer:
 
 Share the live URL in your resume:
 
-> **TaskFlow** | Python, Flask, SQLite, JavaScript  
-> [Live Demo: https://your-app.onrender.com] | [GitHub: github.com/yourname/taskflow]
+> **TaskFlow** | Python, Flask, Flask-SQLAlchemy, SQLite, JavaScript  
+> [Live Demo: https://taskflow-task-manager-ehrm.onrender.com](https://taskflow-task-manager-ehrm.onrender.com) | [GitHub: github.com/Mohd-Abdul-Nawaz/taskflow-task-manager](https://github.com/Mohd-Abdul-Nawaz/taskflow-task-manager)
